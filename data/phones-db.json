@@ -88,6 +88,14 @@
       "exp": 0,
       "added_by": "8730830637",
       "type": "pribadi"
+    },
+    {
+      "number": "6289526324194",
+      "name": "User",
+      "status": "active",
+      "exp": 0,
+      "added_by": "7947107325",
+      "type": "owner"
     }
   ]
 }
