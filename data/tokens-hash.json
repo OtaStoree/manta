@@ -1,6 +1,16 @@
 {
   "v": 1,
-  "updated_at": 1774961532496,
-  "total": 0,
-  "tokens": []
+  "updated_at": 1774961639475,
+  "total": 1,
+  "tokens": [
+    {
+      "token_hash": "225d4b85d2484c4d4a736801f4c352e75b89e324d1df51333b02bb6208533edc",
+      "owner_tg_id": 1925763520,
+      "role": "USER",
+      "status": "active",
+      "allowed_ip": "*",
+      "exp": 0,
+      "created_at": 1774961639
+    }
+  ]
 }
