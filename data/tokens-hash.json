@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1775285510529,
-  "total": 93,
+  "updated_at": 1775285888487,
+  "total": 94,
   "tokens": [
     {
       "token_hash": "3f665eb1206385883539ee5d5e21f29b69a551ab5f61aa8da338408c2cc4fb7e",
@@ -839,6 +839,15 @@
       "allowed_ip": "*",
       "exp": 0,
       "created_at": 1775285510
+    },
+    {
+      "token_hash": "ac310b1ac846fec5cb62fbdb2b21b59259d3e6a6ab794f14fdfc068cbf1d0826",
+      "owner_tg_id": 8442606702,
+      "role": "USER",
+      "status": "active",
+      "allowed_ip": "*",
+      "exp": 0,
+      "created_at": 1775285888
     }
   ]
 }
